@@ -1,0 +1,15 @@
+device_tac;device_type;device_live_since_date;device_supported_technologies;device_manufacturer;device_model
+11111111;smartphone;2020/01/01;4G;Samsung;S20
+22222222;smartphone;2020/02/15;4G;Samsung;A23
+33333333;radiophone;2006/03/20;3G;Nokia;1100
+44444444;smartphone;2015/04/01;3G;Apple;5s
+55555555;smartphone;2023/05/10;4G;Samsung;A32
+66666666;smartphone;2022/06/20;4G;Apple;12
+77777777;smartphone;2021/09/30;4G;Oppo;Reno6
+88888888;smartphone;2019/08/21;4G;One;One+
+99999999;smartphone;2019/08/21;4G;Samsung;One+
+12345678;smartphone;2022/08/21;4G;Apple;One+
+99009900;smartphone;2023/08/21;5G;Samsung;Z
+22113355;smartphone;2019/08/21;4G;Redmi;F24
+12398700;smartphone;2010/08/21;4G;Nokia;A210
+12121212;smartphone;2020/08/21;4G;One;One

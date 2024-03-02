@@ -1,0 +1,9 @@
+{
+   "path_to_your_credentials_json" : "add_path_of_your_credentials_json_file",
+   "bucket_name": "gcs_bucket_name",
+   "object_key": "gsma_device.csv",
+   "gcp_project_id" : "project_id", 
+   "bigquery_dataset_name" : "dataset_name",
+   "bigquery_table_name": "table_name",
+   "gcs_sink_path" :  "sink_path"
+}
