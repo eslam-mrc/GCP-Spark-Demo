@@ -49,5 +49,25 @@ While in the below picture, notice how the Exchange Hashpartitioning no longer e
 I don't have access to Dataproc but I ran and tested the unit test code and validated the output manually using the sample data.
 You will find the validation sheet also attached.
 
+## Resources
+001 
+Read files from Google Cloud Storage Bucket using local PySpark and Jupyter Notebooks
+https://kashif-sohail.medium.com/read-files-from-google-cloud-storage-bucket-using-local-pyspark-and-jupyter-notebooks-f8bd43f4b42e
+
+002 
+Pyspark Project Setup for connecting Google BigQuery
+https://l.facebook.com/l.php?u=https%3A%2F%2Fgrkamarnath.medium.com%2Fpyspark-project-setup-for-connecting-google-bigquery-2488ea721cc9%3Ffbclid%3DIwAR1XL9BVDmyrHs6rT5J9e5iJCN-G6FfctMYT_1laOAQEaB5KnvZ_MiiVwgM&h=AT1JljcXhRUPuj5AYDfyraA5z_oeKKG2uU0MuaWkIiiXUFNJMDoD5ho_lerINVhFPG6IeF8W6IgDG_xBdHyW6sNWvH9LWF_7nfd5hBO60oHxEGKTh9Qgm1XE7rUr0q8ED-0
+
+003
+Google Cloud Documentation
+https://cloud.google.com/bigquery/docs/reference/standard-sql/data-definition-language#create_external_table_statement
+
+004
+Pyspark Window Functions
+https://sparkbyexamples.com/pyspark/pyspark-window-functions/
+
+005
+Chapter 7: Optimizing and Tuning Spark Applications: A Family of Spark Joins
+O'REILLY Learning Spark 2nd Edition
 
 
