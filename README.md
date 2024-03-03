@@ -32,12 +32,12 @@ While in the below picture, notice how the Exchange Hashpartitioning no longer e
 
 ## Dataproc Configuration
 - gcloud dataproc clusters create cluster-name
-  --master-machine-type= n1-standard-16
-  --worker-machine-type= n1-standard-16
-  --master-boot-disk-type= pd-ssd
-  --master-boot-disk-size-gb = 100
-  --region=region
-  --num-workers=10
+--master-machine-type= n1-standard-16
+--worker-machine-type= n1-standard-16
+--master-boot-disk-type= pd-ssd
+--master-boot-disk-size-gb = 100
+--region=region
+--num-workers=10
 
 ## Modules and Libraries Used
 - The pyspark module includes the SparkContext and SQLContext.
@@ -46,8 +46,9 @@ While in the below picture, notice how the Exchange Hashpartitioning no longer e
 - JSON module for encoding and decoding JSON data.
 
 ## Note
-I don't have access to Dataproc but I ran and tested the unit test code and validated the output manually using the sample data.
+- I don't have access to Dataproc but I ran and tested the unit test code and validated the output manually using the sample data.
 You will find the validation sheet also attached.
+- For the unit testing, I used Spark 2.4.7 along with python 2.7.5
 
 ## Resources
 001 
